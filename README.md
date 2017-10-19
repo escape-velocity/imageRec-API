@@ -4,3 +4,4 @@ This app uses the Clarifai API to take an image url and using Image Recognition 
 (ie: man 98.233%, outdoors 92.754%)
 
 This is my first use of AI through and API to detect things in an image.
+Problems with API keys preventing this from working as expected.....update coming
